@@ -1,5 +1,10 @@
 {
 	"class" : {
-		"keystroke:" : "ean 2/11/2025 21:18" },
+		 },
 	"instance" : {
-		"initialize" : "ean 2/11/2025 20:44" } }
+		"initialize" : "ean 2/11/2025 20:44",
+		"keystroke:" : "ean 2/11/2025 21:37",
+		"moveDown" : "ean 2/11/2025 21:58",
+		"moveLeft" : "ean 2/11/2025 21:59",
+		"moveRight" : "ean 2/11/2025 22:00",
+		"moveUp" : "ean 2/11/2025 21:53" } }
