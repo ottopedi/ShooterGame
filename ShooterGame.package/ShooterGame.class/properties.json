@@ -1,0 +1,14 @@
+{
+	"category" : "ShooterGame",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ShooterGame",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }
