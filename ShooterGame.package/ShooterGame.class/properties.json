@@ -1,7 +1,7 @@
 {
 	"category" : "ShooterGame",
 	"classinstvars" : [
-		 ],
+		"ship" ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
